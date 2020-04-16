@@ -1,7 +1,5 @@
 #*
 #    SLAM.py: the implementation of SLAM
-#    created and maintained by Ty Nguyen
-#    tynguyen@seas.upenn.edu
 #    Feb 2020
 #*
 import numpy as np
