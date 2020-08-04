@@ -5,7 +5,7 @@ Implement the structure of mapping and localization in an indoor environment wit
 
 ## User's Guide
 1. The main SLAM structure is implemented in `SLAM.py`
-2. A set of parameters should be changed in `main.py`, including map resolutions, noise level and 
+2. A set of parameters should be changed in `main.py`, including map resolutions, noise level (covariance matrix), number of particles and threshold value for deciding occupancy. 
 3. Set the dataset and run `python main.py`.
 
 ## Result
