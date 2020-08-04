@@ -4,9 +4,9 @@
 Implement the structure of mapping and localization in an indoor environment with particle filters, using information from mainly from IMU and LIDAR. Particle filter is a non-parametric implementation of the Bayes filter. With the particle filter, the posterior bel(xt) is represented by a set of random state samples drawn from this posterior.
 
 ## User's Guide
-1. The main SLAM structure is implemented in SLAM.py
-2. A set of parameters should be changed in main.py, including map resolutions, noise level and 
-3. Set the dataset and run main.py.
+1. The main SLAM structure is implemented in <div>SLAM.py</div>
+2. A set of parameters should be changed in <div>main.py</div>, including map resolutions, noise level and 
+3. Set the dataset and run <div>python main.py</div>.
 
 ## Result
 1. Dataset 0 
